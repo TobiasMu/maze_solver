@@ -1,1 +1,4 @@
 # maze_solver
+
+##
+## 🤝 Contributing
